@@ -13,5 +13,3 @@ except ZeroDivisionError:
 except: 
     print("wrong input") 
 
-
-
