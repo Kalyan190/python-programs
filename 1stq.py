@@ -1,4 +1,4 @@
 degree = float(input("Enter a tempreture in degree celsius: "))
 fahrenheit = (degree*9/5)+32
 print("The tempreture in fahrenheit is : ", fahrenheit)
-# vs code for python
+# vs code for pytho
